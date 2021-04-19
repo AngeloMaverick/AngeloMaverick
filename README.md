@@ -1,1 +1,1 @@
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloMaverick&hide=html&layout=compact&theme=buefy"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloMaverick&theme=tokyonight&layout=compact&langs_count=6"/>
